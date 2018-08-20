@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidAuxiliaryDemo</string>
+    <string name="accessibility_tip">开启辅助功能（达达版）</string>
+    <string name="accessibility_desc">开启辅助功能，让达达锅来帮你</string>
+    <string name="btn_main_content">开启无障碍服务（达达版）</string>
+    <string name="btn_main_content_2">去爽吧！达达服务已开启</string>
+</resources>
